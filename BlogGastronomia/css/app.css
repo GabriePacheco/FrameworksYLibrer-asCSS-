@@ -1,22 +1,26 @@
 
-
 body{
 	 background: url("../imagenes/fodo.jpg") no-repeat  fixed center;
 	 background-size:cover ; 
 }
 .menu li {
-	border: solid 1px #258dad;
+	border: solid 1px #c60f13;
+
 	
 }
+.logo{
+	color: #FFFFFF;
 }
+
 .menu li:hover{
-	background-color: #258dad;
+	background-color: #a0800c;
 	color: #fff; 
 
 }
 .menu li:hover a{
 	color: #fff; 
 	font-weight: bold;
+	background-color: #a0800c;
 }
 h2, h3,h4 ,a{
 	color: #c60f13 ;
